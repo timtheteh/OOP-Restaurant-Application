@@ -1,0 +1,25 @@
+McChicken
+MainCourse
+Normal
+Chicken sandwich
+3.00
+Buttermilk Crispy Chicken
+MainCourse
+Normal
+Crispy chicken sandwich
+5.00
+Original Angus Cheeseburger
+MainCourse
+Normal
+Premium beef only
+4.00
+Hot Milo
+Drink
+Normal
+Perfect for a rainy day!
+2.00
+Vanilla Cone
+Dessert
+Normal
+Perfect for a hot day!
+1.00

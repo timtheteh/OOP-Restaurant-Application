@@ -1,0 +1,4 @@
+Alice,F,123,CEO
+Bob,M,456,Manager
+Charlie,M,789,Cook
+Diana,F,111,Service Staff
